@@ -1,0 +1,52 @@
+<map id="/home/runner/work/circt&#45;www/circt&#45;www/circt_src/lib/Dialect/FIRRTL/Transforms/InferWidths.cpp" name="/home/runner/work/circt&#45;www/circt&#45;www/circt_src/lib/Dialect/FIRRTL/Transforms/InferWidths.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1611,5,1827,76"/>
+<area shape="rect" id="node2" href="$FIRRTL_2Transforms_2PassDetails_8h.html" title=" " alt="" coords="580,131,689,158"/>
+<area shape="rect" id="node3" href="$FIRRTLOps_8h.html" title=" " alt="" coords="1523,303,1671,344"/>
+<area shape="rect" id="node8" href="$FIRRTLTypes_8h.html" title=" " alt="" coords="1397,645,1545,687"/>
+<area shape="rect" id="node19" href="$FieldRef_8h.html" title=" " alt="" coords="586,399,758,426"/>
+<area shape="rect" id="node29" href="$Dialect_2FIRRTL_2Passes_8h.html" title=" " alt="" coords="398,213,546,255"/>
+<area shape="rect" id="node35" href="$FIRRTLUtils_8h.html" title=" " alt="" coords="1098,124,1246,165"/>
+<area shape="rect" id="node39" href="$FIRRTLVisitors_8h.html" title=" " alt="" coords="901,124,1049,165"/>
+<area shape="rect" id="node40" title=" " alt="" coords="1322,131,1537,158"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1561,131,1708,158"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1733,131,1873,158"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1897,131,2057,158"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2082,131,2254,158"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2278,131,2429,158"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2453,131,2619,158"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2643,131,2853,158"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2877,131,3035,158"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3060,131,3223,158"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3247,131,3457,158"/>
+<area shape="rect" id="node30" title=" " alt="" coords="409,310,535,337"/>
+<area shape="rect" id="node34" title=" " alt="" coords="559,303,707,344"/>
+<area shape="rect" id="node4" href="$FIRRTLDialect_8h.html" title=" " alt="" coords="1974,735,2122,776"/>
+<area shape="rect" id="node7" href="$FIRRTLOpInterfaces_8h.html" title=" " alt="" coords="1524,392,1689,433"/>
+<area shape="rect" id="node14" href="$HWOpInterfaces_8h.html" title=" " alt="" coords="1770,481,2019,508"/>
+<area shape="rect" id="node15" href="$HWTypes_8h.html" title=" " alt="" coords="2147,742,2349,769"/>
+<area shape="rect" id="node16" href="$InnerSymbolTable_8h.html" title=" " alt="" coords="1432,556,1645,597"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1582,653,1746,679"/>
+<area shape="rect" id="node18" href="$SeqAttributes_8h.html" title=" " alt="" coords="1764,399,1996,426"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2021,399,2155,426"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2179,399,2381,426"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2507,399,2709,426"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2733,399,2947,426"/>
+<area shape="rect" id="node26" title=" " alt="" coords="884,392,1065,433"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1089,392,1276,433"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1301,392,1449,433"/>
+<area shape="rect" id="node5" href="$HWDialect_8h.html" title=" " alt="" coords="2023,824,2235,851"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title=" " alt="" coords="1859,899,2013,925"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1736,742,1899,769"/>
+<area shape="rect" id="node12" title=" " alt="" coords="981,742,1152,769"/>
+<area shape="rect" id="node9" href="$HWTypeInterfaces_8h.html" title=" " alt="" coords="1227,742,1488,769"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1466,824,1585,851"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1563,735,1711,776"/>
+<area shape="rect" id="node20" title=" " alt="" coords="692,481,809,508"/>
+<area shape="rect" id="node21" title=" " alt="" coords="476,481,668,508"/>
+<area shape="rect" id="node31" title=" " alt="" coords="104,310,283,337"/>
+<area shape="rect" id="node32" title=" " alt="" coords="307,310,384,337"/>
+<area shape="rect" id="node33" title=" " alt="" coords="5,310,80,337"/>
+<area shape="rect" id="node36" href="$Dialect_2FIRRTL_2Namespace_8h.html" title=" " alt="" coords="1403,213,1551,255"/>
+<area shape="rect" id="node37" title=" " alt="" coords="986,221,1134,247"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1210,221,1379,247"/>
+</map>

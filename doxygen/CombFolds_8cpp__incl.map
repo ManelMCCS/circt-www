@@ -1,0 +1,52 @@
+<map id="/home/runner/work/circt&#45;www/circt&#45;www/circt_src/lib/Dialect/Comb/CombFolds.cpp" name="/home/runner/work/circt&#45;www/circt&#45;www/circt_src/lib/Dialect/Comb/CombFolds.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3235,5,3473,61"/>
+<area shape="rect" id="node2" href="$CombOps_8h.html" title=" " alt="" coords="705,109,848,151"/>
+<area shape="rect" id="node24" href="$HWAttributes_8h.html" title=" " alt="" coords="442,385,671,411"/>
+<area shape="rect" id="node28" href="$HWOps_8h.html" title=" " alt="" coords="1901,117,2092,143"/>
+<area shape="rect" id="node36" title=" " alt="" coords="3110,474,3281,501"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3283,117,3425,143"/>
+<area shape="rect" id="node47" title=" " alt="" coords="3449,117,3616,143"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3640,117,3799,143"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3823,117,4016,143"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4040,117,4231,143"/>
+<area shape="rect" id="node3" href="$CombDialect_8h.html" title=" " alt="" coords="173,556,316,597"/>
+<area shape="rect" id="node8" href="$HWTypes_8h.html" title=" " alt="" coords="1034,295,1237,322"/>
+<area shape="rect" id="node10" href="$LLVM_8h.html" title=" " alt="" coords="1590,653,1745,679"/>
+<area shape="rect" id="node18" title=" " alt="" coords="603,206,751,233"/>
+<area shape="rect" id="node19" title=" " alt="" coords="775,206,976,233"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1001,206,1203,233"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1227,199,1409,240"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1433,199,1619,240"/>
+<area shape="rect" id="node23" title=" " alt="" coords="333,199,476,240"/>
+<area shape="rect" id="node4" title=" " alt="" coords="342,653,529,679"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1071,653,1197,679"/>
+<area shape="rect" id="node6" title=" " alt="" coords="172,645,317,687"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,645,148,687"/>
+<area shape="rect" id="node9" href="$HWDialect_8h.html" title=" " alt="" coords="693,563,905,590"/>
+<area shape="rect" id="node15" title=" " alt="" coords="997,385,1157,411"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1191,474,1309,501"/>
+<area shape="rect" id="node17" title=" " alt="" coords="746,385,973,411"/>
+<area shape="rect" id="node13" title=" " alt="" coords="811,653,1046,679"/>
+<area shape="rect" id="node14" title=" " alt="" coords="553,653,787,679"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1490,735,1642,761"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1666,735,1871,761"/>
+<area shape="rect" id="node25" title=" " alt="" coords="719,474,864,501"/>
+<area shape="rect" id="node26" title=" " alt="" coords="889,467,1057,508"/>
+<area shape="rect" id="node27" title=" " alt="" coords="443,474,695,501"/>
+<area shape="rect" id="node29" href="$HWOpInterfaces_8h.html" title=" " alt="" coords="1744,206,1993,233"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2009,385,2173,411"/>
+<area shape="rect" id="node40" href="$BuilderUtils_8h.html" title=" " alt="" coords="3233,385,3429,411"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2017,206,2232,233"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2257,206,2470,233"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2495,199,2693,240"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2717,206,2895,233"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2919,206,3107,233"/>
+<area shape="rect" id="node30" href="$InnerSymbolTable_8h.html" title=" " alt="" coords="1762,288,1975,329"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1334,474,1497,501"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1466,295,1738,322"/>
+<area shape="rect" id="node31" href="$FIRRTLAttributes_8h.html" title=" " alt="" coords="1655,377,1803,419"/>
+<area shape="rect" id="node34" href="$FIRRTLTypes_8h.html" title=" " alt="" coords="1483,377,1631,419"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1827,385,1985,411"/>
+<area shape="rect" id="node32" href="$FIRRTLDialect_8h.html" title=" " alt="" coords="1521,467,1669,508"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1795,467,1966,508"/>
+</map>
